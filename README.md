@@ -1,5 +1,7 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
+# NAME:INDHUJA S
+# 25010417
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
@@ -23,6 +25,91 @@
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
 
 **CIRCUIT DIAGRAM:**
+
+<img width="332" height="551" alt="image" src="https://github.com/user-attachments/assets/10744626-20df-4257-a680-c9d9dc591f63" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**TABULAR COLUMN**
+
+<img width="380" height="317" alt="image" src="https://github.com/user-attachments/assets/9c1e3b46-6757-4ca1-a12f-05ed83dfd90d" />
+
+
+
+
+
+**CALCULATION**
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/c1e69140-c167-432b-bc0c-f7fa2bfb6819" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/7dcd8809-a4f9-4ae3-90ac-667104fc2853" />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48,6 +135,13 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+
+
+<img width="345" height="372" alt="image" src="https://github.com/user-attachments/assets/7c1a79e0-d109-4217-9bb7-5b2dbeb35c13" />
+
+
+
+
 
 **RESULT:**
 
