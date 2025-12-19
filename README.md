@@ -1,4 +1,4 @@
-# VERIFICATION OF KIRCHHOFF’S LAWS
+ # VERIFICATION OF KIRCHHOFF’S LAWS
 
 **AIM:**
 
@@ -24,6 +24,182 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="376" height="517" alt="image" src="https://github.com/user-attachments/assets/305449b1-843c-41d9-9c56-ebd093e74838" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**TABULAR COLUMN**
+
+<img width="377" height="315" alt="image" src="https://github.com/user-attachments/assets/ad2e0066-276e-43c9-861e-f59ff1f31ccb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**CALULATION**
+
+<img width="345" height="547" alt="image" src="https://github.com/user-attachments/assets/d61aec23-f063-4cb4-9661-920f6fef2262" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="353" height="531" alt="image" src="https://github.com/user-attachments/assets/c653d0f2-bbde-489b-ab5e-85c75278ed55" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48,6 +224,48 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+
+
+
+
+<img width="382" height="527" alt="image" src="https://github.com/user-attachments/assets/d3ce43e4-5a5b-4579-ad72-4335c1a5543f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **RESULT:**
 
